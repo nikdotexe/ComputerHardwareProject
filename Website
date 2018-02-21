@@ -6,8 +6,17 @@
 <meta charset="utf-8">
 
 <style>
+body {
+  background-color: rgb(0,119,255);
 
+}
 h1 {
+            font-family: cursive;
+}
+h3 {
+            font-family: cursive;
+}
+p {
             font-family: cursive;
 }
 </style>
@@ -17,7 +26,31 @@ h1 {
 <body>
 
 <h1> Computer Hardware Project; Sound Systems </h1>
+<img src="https://images10.newegg.com/NeweggImage/ProductImage/29-102-003-06.jpg" alt="Sound Card">
+<h4> ^Sound Card^ </h4>
+<h3>Brief History of Sound Systems</h3>
+<p>Audio devices are used in computers to register information and then play them through speakers or<br> other output devices.
+The first recorded audio device created was in 1877 by Thomas Edison and was <br>called "the phonograph".
+It was capable of very basic audio recording and playback,
+and since then<br> technology has progressed very far in terms of sophistication and processing ability.</p>
 
+<p>One main component is called the device drivers, it's a small computer program which directly informs<br>
+  the computer how to access and use all devices attached thus including the sound cards, some specific<br>
+   headphones and/or speaker may require their own personal device driver then connects via USB.</p>
+
+<p>Another main component for audio devices are sound cards it's a small slot inside your motherboard then<br>
+  comes out as a 3.5 mm jack. The quality of the audio depends on your sound card. </p>
+<p>There are 2 types of audio devices input and output, both work together in order to create a full audio<br>
+   system, but are different in processing from each other.<br>
+<br>
+Input: <br>
+input devices are used to send information to the computer for it to be processed for an example a mouse<br>
+could be used to “click” on certain websites to access information another example<br>
+<br>
+Output:<br>
+An output device would receive data and display it or produce it  or project it through any thing connected<br>
+ via the various ports from speakers to headphones basically anything that produces or processes sound.
+</p>
 
 
 
