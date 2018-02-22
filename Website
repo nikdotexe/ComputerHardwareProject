@@ -10,15 +10,29 @@ body {
   background-color: rgb(0,119,255);
 
 }
+h2 {
+color: rgb(255, 255, 255);
+}
+
+
+
+
 h1 {
             font-family: cursive;
 }
 h3 {
             font-family: cursive;
 }
+h2 {
+            font-family: cursive;
+}
+h4 {
+            font-family: cursive;
+}
 p {
             font-family: cursive;
 }
+
 </style>
 
 </head>
@@ -26,33 +40,61 @@ p {
 <body>
 
 <h1> Computer Hardware Project; Sound Systems </h1>
-<img src="https://images10.newegg.com/NeweggImage/ProductImage/29-102-003-06.jpg" alt="Sound Card">
-<h4> ^Sound Card^ </h4>
-<h3>Brief History of Sound Systems</h3>
+<h2>Project & Webpage Coded and created by Nick, Hamza and Adnan</h2>
+<h3>Index</h3>
+<ul>
+            <li><a href="#history">Brief History of Sound systems in Computers</a></li>
+            <li><a href="#general">General Info</a></li>
+            <li><a href="#in">Input Devices</a></li>
+            <li><a href="#out">Output Devices</a></li>
+        </ul>
+
+
+<h3 id="history">Brief History of Sound Systems</h3>
+
 <p>Audio devices are used in computers to register information and then play them through speakers or<br> other output devices.
 The first recorded audio device created was in 1877 by Thomas Edison and was <br>called "the phonograph".
 It was capable of very basic audio recording and playback,
 and since then<br> technology has progressed very far in terms of sophistication and processing ability.</p>
-
+<br>
+<h3 id="general">General Information</h3>
 <p>One main component is called the device drivers, it's a small computer program which directly informs<br>
   the computer how to access and use all devices attached thus including the sound cards, some specific<br>
    headphones and/or speaker may require their own personal device driver then connects via USB.</p>
-
+   <img src="https://i.imgur.com/Nl8cxLp.png" alt="Sound Card" width="30%">
+   <h4> a Sound Card, the main processor of sound related functions in a computer. As shown above. </h4>
 <p>Another main component for audio devices are sound cards it's a small slot inside your motherboard then<br>
   comes out as a 3.5 mm jack. The quality of the audio depends on your sound card. </p>
 <p>There are 2 types of audio devices input and output, both work together in order to create a full audio<br>
-   system, but are different in processing from each other.<br>
+   system, but are different in processing from each other.<br></p>
 <br>
+<p id="in">
 Input: <br>
-input devices are used to send information to the computer for it to be processed for an example a mouse<br>
-could be used to “click” on certain websites to access information another example<br>
 <br>
-Output:<br>
-An output device would receive data and display it or produce it  or project it through any thing connected<br>
- via the various ports from speakers to headphones basically anything that produces or processes sound.
+input devices are used to send information to the computer for it to be processed for an example a mouse<br>
+could be used to “click” on certain websites to access information another example<br></p>
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Gnome-audio-input-microphone.svg/220px-Gnome-audio-input-microphone.svg.png" alt="Microphone" width="30%">
+<h3>^For example, a Microphone^</h3>
+
+<p id="out">Output:<br>
+<br>An output device would receive data and display it or produce it or project it through  speakers, headphones,<br>
+or basically anything that produces electronic sound in the computer. Basically in the computer there are electronic <br>
+waves which are produced in the computer core (CPU, Motherboard) and are sent to the output device. For this example <br>
+we can say its a speaker. In the speaker the devices there are tasked with having to transfer those electrical signals<br>
+to audible sounds (sound waves). This is done using 2 types of magnets, a stationary one, and an electromagnet. <br>
+The electric sounds sent through the computer flow through the electromagnet, (a coil), and the stationary magnet <br>
+reverse the flow of the electricity. (magnet is stationary. This is done by coiling the electromagnet around the magnet.<br>
+Because the waves are being reversed constantly (north and south poles of the stationary magnet) this creates vibrations<br>
+which are then amplified by a special cone (thin material) so that it is loud enough to hear.<br>
+Different speakers have different size cones which is what produces different variety, quality and power of sounds.<br>
+This is why larger speakers produce louder noises, but may lack the sophistication of a smaller speaker, <br>
+struggling to make higher pitched sounds. This is why there is such a variety of sound systems, since some are used for music,<br>
+while others are just used for speaking.
+
 </p>
-
-
+<img src="https://i.imgur.com/FAr4iH3.png" alt="Speakers" width="40%">
+<h3>^For example, speakers.^</h3>
 
 
 </body>
