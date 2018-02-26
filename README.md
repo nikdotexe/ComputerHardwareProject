@@ -1,2 +1,2 @@
 # ComputerHardwareProject
-Nick, Hamza &; Adnan
+Nick, Hamza & Adnan
